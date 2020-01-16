@@ -1,5 +1,5 @@
 # JavaDTA - Dynamic Taint Tracker
-JavaDTA is a Simple Dynamic Taint Analyzer for J2EE applications.
+JavaDTA is a new Dynamic Taint Analyzer for finding security issues in J2EE applications.
 <br/><br/>
 
 ## Installation (Generate Agent and RT JAR)
